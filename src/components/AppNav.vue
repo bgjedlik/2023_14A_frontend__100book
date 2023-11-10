@@ -14,6 +14,9 @@
           <li class="nav-item">
             <a class="nav-link " aria-current="page" href="/konyvek">Könyvek</a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link " aria-current="page" href="/konyv-kereses">Könyv keresés</a>
+          </li>
         </ul>
       </div>
     </div>
